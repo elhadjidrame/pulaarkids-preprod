@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "books": [
+    {
+      "id": "motherly",
+      "version": "1.0",
+      "description": "",
+      "url": "/mini-stories/books/motherly/1.0/cb076ed0dc3ff92374f9c155251c7233ac377561413b77a4d6a4b8b355b1757f.zip",
+      "size_bytes": 4781610,
+      "checksum": "cb076ed0dc3ff92374f9c155251c7233ac377561413b77a4d6a4b8b355b1757f",
+      "cover_path": "images/mini_stories/motherly/cover.webp"
+    },
+    {
+      "id": "the_lions",
+      "version": "1.0",
+      "description": "",
+      "url": "/mini-stories/books/the_lions/1.0/84c64a091783c4bc718b3c9646a6056fe6b1de207ba707cb913cf4a09b3dca7b.zip",
+      "size_bytes": 2727046,
+      "checksum": "84c64a091783c4bc718b3c9646a6056fe6b1de207ba707cb913cf4a09b3dca7b",
+      "cover_path": "images/mini_stories/the_lions/cover.webp"
+    },
+    {
+      "id": "the_cameleons",
+      "version": "1.0",
+      "description": "",
+      "url": "/mini-stories/books/the_cameleons/1.0/0981efe99caf493065fd146157d39a345c8e40ebc2dc371749cc8536c81ff0a2.zip",
+      "size_bytes": 2704098,
+      "checksum": "0981efe99caf493065fd146157d39a345c8e40ebc2dc371749cc8536c81ff0a2",
+      "cover_path": "images/mini_stories/the_cameleons/cover.webp"
+    }
+  ]
+}

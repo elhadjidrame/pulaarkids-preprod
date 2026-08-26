@@ -1,0 +1,62 @@
+{
+  "version": "1.0",
+  "updated_at": "2026-08-26T14:32:45Z",
+  "packs": [
+    {
+      "id": "pack_vocabulary",
+      "type": "full",
+      "version": "1.8",
+      "url": "https://pulaarkids-assets.s3.fr-par.scw.cloud/packs/pack_vocabulary_v1.8.zip",
+      "size_bytes": 44388352,
+      "checksum": "sha256:34473848d60595da9da3b9b7bb75855ae6c8460d78963c52517c419a1ca6a887",
+      "mandatory": true,
+      "description": "Images, audio et données du module Vocabulaire"
+    },
+    {
+      "id": "pack_sentences",
+      "type": "full",
+      "version": "1.5",
+      "url": "https://pulaarkids-assets.s3.fr-par.scw.cloud/packs/pack_sentences_v1.5.zip",
+      "size_bytes": 14488311,
+      "checksum": "sha256:e2c22c4dff415f2fffa0c325ebb628bc9963ef708c497bf4fb9bf138bdd3eb02",
+      "mandatory": true,
+      "description": "Images, audio et données du module Phrases"
+    },
+    {
+      "id": "pack_fables",
+      "type": "audio",
+      "version": "1.9",
+      "url": "https://pulaarkids-assets.s3.fr-par.scw.cloud/packs/pack_fables_v1.9.zip",
+      "size_bytes": 22664150,
+      "checksum": "sha256:673d1edf198616ec0d62912d9faa2039580acf6e0f583a64594ca326a8d14d91",
+      "mandatory": true,
+      "description": "Histoires et contes"
+    },
+    {
+      "id": "pack_games",
+      "type": "mini_games",
+      "version": "1.4",
+      "url": "https://pulaarkids-assets.s3.fr-par.scw.cloud/packs/pack_games_v1.4.zip",
+      "size_bytes": 9291047,
+      "checksum": "sha256:47ea9a6764040fcd4d463c05434ca0cf83db0839e829648e2cd577c53fbd6f9e",
+      "mandatory": true,
+      "description": "Assets et données des jeux"
+    },
+    {
+      "id": "pack_core_ui",
+      "type": "full",
+      "version": "1.4",
+      "url": "https://pulaarkids-assets.s3.fr-par.scw.cloud/packs/pack_core_ui_v1.4.zip",
+      "size_bytes": 18666374,
+      "checksum": "sha256:672621a5fda7e98391b2915d2317ac215928ba36a9066c2904c28bba4d7cf906",
+      "mandatory": true,
+      "description": "Interface utilisateur (Core UI)"
+    }
+  ],
+  "mini_stories_catalog": {
+    "version": "1.0",
+    "url": "/mini-stories/catalogs/9f68e7d7d51b44657f4ca22185d1700d24b3e4615aa9a1a7c1e309988e8ea8c5.json",
+    "size_bytes": 1203,
+    "checksum": "9f68e7d7d51b44657f4ca22185d1700d24b3e4615aa9a1a7c1e309988e8ea8c5"
+  }
+}
