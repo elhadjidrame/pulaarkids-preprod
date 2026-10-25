@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "module": "sentences",
+  "locale": "fr",
+  "revision": 1,
+  "corpus_fingerprint": "dbb7286b5c1011766e56cc98cc044f0eb7dcdd6e44f93e9fbf91b70e2160e4e2",
+  "entries": [
+    {
+      "key": "sentences.emotions.emotions_001.caption",
+      "source_text": "Mi weelaama",
+      "translation": "J'ai faim"
+    },
+    {
+      "key": "sentences.emotions.emotions_002.caption",
+      "source_text": "Mi do nawni",
+      "translation": "Je suis très malade et je dois me reposer aujourd'hui (test QA)"
+    },
+    {
+      "key": "sentences.emotions.title",
+      "source_text": "So'ugol",
+      "translation": "Les émotions"
+    },
+    {
+      "key": "sentences.family.family_001.caption",
+      "source_text": "Neene an",
+      "translation": "Ma mère"
+    },
+    {
+      "key": "sentences.family.family_002.caption",
+      "source_text": "Baaben an",
+      "translation": "Mon père"
+    },
+    {
+      "key": "sentences.family.family_003.caption",
+      "source_text": "Kotoo an",
+      "translation": "Mon grand frère (test QA)"
+    },
+    {
+      "key": "sentences.family.title",
+      "source_text": "Beynguure",
+      "translation": "La famille"
+    },
+    {
+      "key": "sentences.politeness.politeness_001.caption",
+      "source_text": "Jaaraama",
+      "translation": "Merci beaucoup"
+    },
+    {
+      "key": "sentences.politeness.politeness_002.caption",
+      "source_text": "O'oowo, mi do yahude",
+      "translation": "Au revoir, je m'en vais"
+    },
+    {
+      "key": "sentences.politeness.title",
+      "source_text": "Needi",
+      "translation": "La politesse"
+    }
+  ]
+}
