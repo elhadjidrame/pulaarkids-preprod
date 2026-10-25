@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated_at": "2026-10-25T12:00:00Z",
+  "updated_at": "2026-10-25T18:00:00Z",
   "packs": [
     {
       "id": "pack_vocabulary",
@@ -60,9 +60,9 @@
     "checksum": "9f68e7d7d51b44657f4ca22185d1700d24b3e4615aa9a1a7c1e309988e8ea8c5"
   },
   "translations_catalog": {
-    "version": "1.0",
-    "url": "/translations/catalogs/d7f319acdd7103388aa4c8fa9ba3acba59035bac98bc59f1d7d465a5a6b51352.json",
+    "version": "1.1",
+    "url": "/translations/catalogs/2f53ef68170c816b8a4b9c2dfa320129bf353e80563d19ae2d42ca23c9d7b75a.json",
     "size_bytes": 912,
-    "checksum": "d7f319acdd7103388aa4c8fa9ba3acba59035bac98bc59f1d7d465a5a6b51352"
+    "checksum": "2f53ef68170c816b8a4b9c2dfa320129bf353e80563d19ae2d42ca23c9d7b75a"
   }
 }

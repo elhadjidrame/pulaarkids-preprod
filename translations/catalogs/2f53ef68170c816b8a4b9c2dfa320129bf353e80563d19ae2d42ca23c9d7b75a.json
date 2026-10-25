@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "revision": 2,
+  "updated_at": "2026-10-25T18:00:00Z",
+  "bundles": [
+    {
+      "module": "vocabulary",
+      "locale": "fr",
+      "version": "1.1",
+      "revision": 2,
+      "url": "/translations/bundles/vocabulary_fr_v1.1.json",
+      "size_bytes": 2249,
+      "checksum": "1a76bc68cc1d1026bd6bb7e8d6712b2467caeeab45fd040e91be466875f99b0e",
+      "corpus_fingerprint": "20cf1d8fbd2a24aea03a839121a3a6fc33ce75a4d808b5925eb5c505af195305",
+      "entries_count": 17
+    },
+    {
+      "module": "sentences",
+      "locale": "fr",
+      "version": "1.1",
+      "revision": 2,
+      "url": "/translations/bundles/sentences_fr_v1.1.json",
+      "size_bytes": 1552,
+      "checksum": "6b9f162e61b17c57da32045d3b12d8a44d5a52585914525539508e941d4f16bd",
+      "corpus_fingerprint": "dbb7286b5c1011766e56cc98cc044f0eb7dcdd6e44f93e9fbf91b70e2160e4e2",
+      "entries_count": 10
+    }
+  ]
+}

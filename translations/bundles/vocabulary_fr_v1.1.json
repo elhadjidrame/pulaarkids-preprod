@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "module": "vocabulary",
+  "locale": "fr",
+  "revision": 2,
+  "corpus_fingerprint": "20cf1d8fbd2a24aea03a839121a3a6fc33ce75a4d808b5925eb5c505af195305",
+  "entries": [
+    {
+      "key": "vocabulary.animals.chameleon.label",
+      "source_text": "Dooñorgal",
+      "translation": "Caméléon"
+    },
+    {
+      "key": "vocabulary.animals.giraffe.label",
+      "source_text": "Kemmbaari",
+      "translation": "Girafe"
+    },
+    {
+      "key": "vocabulary.animals.lion.label",
+      "source_text": "Ngayuuri",
+      "translation": "Lion"
+    },
+    {
+      "key": "vocabulary.animals.title",
+      "source_text": "Kuule",
+      "translation": "Animaux"
+    },
+    {
+      "key": "vocabulary.body.eye.label",
+      "source_text": "Yitere",
+      "translation": "Œil"
+    },
+    {
+      "key": "vocabulary.body.title",
+      "source_text": "Banndu",
+      "translation": "Corps humain"
+    },
+    {
+      "key": "vocabulary.fruits.orange.label",
+      "source_text": "Leemunne",
+      "translation": "Orange"
+    },
+    {
+      "key": "vocabulary.fruits.title",
+      "source_text": "Bibbe-ledde",
+      "translation": "Fruits"
+    },
+    {
+      "key": "vocabulary.house.door.label",
+      "source_text": "Damal",
+      "translation": "Porte"
+    },
+    {
+      "key": "vocabulary.house.house.label",
+      "source_text": "Suudu",
+      "translation": "Maison"
+    },
+    {
+      "key": "vocabulary.house.title",
+      "source_text": "Suudu",
+      "translation": "Maison"
+    },
+    {
+      "key": "vocabulary.nature.clouds.label",
+      "source_text": "Duule",
+      "translation": "Nuages"
+    },
+    {
+      "key": "vocabulary.nature.title",
+      "source_text": "Huundari",
+      "translation": "Nature"
+    },
+    {
+      "key": "vocabulary.nature.tree.label",
+      "source_text": "Leggal",
+      "translation": "Arbre"
+    },
+    {
+      "key": "vocabulary.vegetables.cucumber.label",
+      "source_text": "Kaakummboosi",
+      "translation": "Concombre"
+    },
+    {
+      "key": "vocabulary.vegetables.onion.label",
+      "source_text": "Basalle",
+      "translation": "Oignon"
+    },
+    {
+      "key": "vocabulary.vegetables.title",
+      "source_text": "Maafeeji",
+      "translation": "Légumes"
+    }
+  ]
+}
